@@ -33,4 +33,4 @@ I'm currently learning
 I'm looking for help with
 -----------------------------------
 * github (especially actions/workflows)
-* docker (what the fuck is this shit)
+* docker (wtf is this shit)
