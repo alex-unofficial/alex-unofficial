@@ -1,16 +1,36 @@
-### Hi there 👋
+About Me
+----------------------------------
+I'm Alex, an ECE student and amateur coder just doin stuff for fun.
 
-<!--
-**alex-unofficial/alex-unofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* age: 19
+* pronouns: he/him
+* location: Greece
 
-Here are some ideas to get you started:
+----------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages (in order of familiarity)
+-----------------------------------
+`python` , `c++` , `c` , `LaTeX`, `java`
+
+What I use
+-----------------------------------
+* OS: `linux mint`
+* text editors: `neovim`, `sublime` and occasionally `vs code`
+* terminal emulator: `gnome` with `tmux`
+
+Interests
+-----------------------------------
+numerical computation, robotics, machine learning, web communication protocols, cybersec, open source
+
+I'm currently working on
+-----------------------------------
+some odd personal projects. nothing in particular
+
+I'm currently learning
+-----------------------------------
+`git`, `numpy`, `sockets`, `vim`, `LaTeX`, `bash`
+
+I'm looking for help with
+-----------------------------------
+* github (especially actions/workflows)
+* docker (what the fuck is this shit)
