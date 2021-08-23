@@ -29,8 +29,3 @@ some odd personal projects. nothing in particular
 I'm currently learning
 -----------------------------------
 `git`, `numpy`, `sockets`, `vim`, `LaTeX`, `bash`
-
-I'm looking for help with
------------------------------------
-* github (especially actions/workflows)
-* docker (wtf is this shit)
