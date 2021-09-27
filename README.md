@@ -1,6 +1,6 @@
 About Me
 ----------------------------------
-I'm Alex, an ECE student and amateur coder just doin stuff for fun.
+I'm Alex, an engineering student and amateur coder, doing stuff for fun.
 
 * age: 19
 * pronouns: he/him
@@ -20,12 +20,8 @@ What I use
 
 Interests
 -----------------------------------
-numerical computation, robotics, machine learning, web communication protocols, cybersec, open source
+numerical computation, robotics, machine learning, communication protocols, cybersecurity, FOSS
 
 I'm currently working on
 -----------------------------------
 some odd personal projects. nothing in particular
-
-I'm currently learning
------------------------------------
-`git`, `numpy`, `sockets`, `vim`, `LaTeX`, `bash`
