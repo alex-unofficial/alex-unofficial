@@ -2,7 +2,7 @@ About Me
 ----------------------------------
 I'm Alex, an engineering student and amateur coder, doing stuff for fun.
 
-* age: 19
+* age: 20
 * pronouns: he/him
 * location: Greece
 
@@ -14,9 +14,9 @@ Languages (in order of familiarity)
 
 What I use
 -----------------------------------
-* OS: `linux mint`
-* text editors: `neovim`, `sublime` and occasionally `vs code`
-* terminal emulator: `gnome` with `tmux`
+* OS: `arch linux`
+* text editors: `vim`, `sublime` and occasionally `vs code`
+* terminal emulator: `alacritty`
 
 Interests
 -----------------------------------
@@ -24,4 +24,4 @@ numerical computation, robotics, machine learning, communication protocols, cybe
 
 I'm currently working on
 -----------------------------------
-some odd personal projects. nothing in particular
+blind, a braille-art image viewer for the terminal
