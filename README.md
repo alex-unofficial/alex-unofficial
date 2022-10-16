@@ -4,24 +4,16 @@ I'm Alex, an engineering student and amateur coder, doing stuff for fun.
 
 * age: 20
 * pronouns: he/him
-* location: Greece
+* location: Thessaloniki, Greece
 
-----------------------------------
-
-Languages (in order of familiarity)
+Languages (In a general order of familiarity)
 -----------------------------------
-`python` , `c++` , `c` , `LaTeX`, `java`
-
-What I use
------------------------------------
-* OS: `arch linux`
-* text editors: `vim`, `sublime` and occasionally `vs code`
-* terminal emulator: `alacritty`
+`Python` , `C/C++` , `LaTeX`, `Julia`, `Octave`, `Java`
 
 Interests
 -----------------------------------
-numerical computation, robotics, machine learning, communication protocols, cybersecurity, FOSS
+numerical computation, control theory, machine learning, communication protocols, cybersecurity, FOSS
 
 I'm currently working on
 -----------------------------------
-blind, a braille-art image viewer for the terminal
+nothing in particular.
