@@ -1,19 +1,24 @@
 About Me
 ----------------------------------
-I'm Alex, an engineering student and amateur coder, doing stuff for fun.
+I'm Alex, an engineering student and amateur coder.
 
-* age: 20
+* age: 21
 * pronouns: he/him
 * location: Thessaloniki, Greece
 
-Languages (In a general order of familiarity)
+Coding Languages
 -----------------------------------
-`Python` , `C/C++` , `LaTeX`, `Julia`, `Octave`, `Java`
+`C/C++`, 'Python`, `Julia`, `Octave`, `Java`
+
+Typesetting Languages
+-----------------------------------
+`Latex`, `markdown`
 
 Interests
 -----------------------------------
-numerical computation, control theory, machine learning, communication protocols, cybersecurity, FOSS
+parallel computing, control theory, computer communications, 
+numerical computation, machine learning, cybersecurity, free software
 
 I'm currently working on
 -----------------------------------
-nothing in particular.
+projects for university.
