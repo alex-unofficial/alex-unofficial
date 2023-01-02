@@ -10,7 +10,7 @@ Coding Languages
 -----------------------------------
 `C/C++`, `Python`, `Julia`, `Octave`, `Java`
 
-Typesetting Languages
+Typesetting/Markup Languages
 -----------------------------------
 `Latex`, `markdown`
 
