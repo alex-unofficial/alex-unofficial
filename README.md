@@ -8,7 +8,7 @@ I'm Alex, an engineering student and amateur coder.
 
 Coding Languages
 -----------------------------------
-`C/C++`, `Python`, `Julia`, `Octave`, `Java`
+`C/C++`, `Python`, `Julia`, `Octave`
 
 Typesetting/Markup Languages
 -----------------------------------
