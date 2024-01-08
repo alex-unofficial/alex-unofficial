@@ -8,7 +8,7 @@ I'm Alex, an engineering student and amateur coder.
 
 Coding Languages
 -----------------------------------
-`C/C++`, `Python`, `Julia`, `Octave`
+`C/C++`, `Rust`, `Python`, `Julia`, `Octave`
 
 Typesetting/Markup Languages
 -----------------------------------
@@ -17,8 +17,8 @@ Typesetting/Markup Languages
 Interests
 -----------------------------------
 parallel computing, control theory, computer communications, 
-numerical computation, machine learning, cybersecurity, free software
+numerical computation, machine learning, cybersecurity, linux, free software
 
 I'm currently working on
 -----------------------------------
-projects for university.
+nothing in particular
