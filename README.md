@@ -2,7 +2,7 @@ About Me
 ----------------------------------
 I'm Alex, an engineering student and amateur coder.
 
-* age: 21
+* age: 22
 * pronouns: he/him
 * location: Thessaloniki, Greece
 
