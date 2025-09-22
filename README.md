@@ -1,8 +1,8 @@
 About Me
 ----------------------------------
-I'm Alex, an engineering student and amateur coder.
+I'm Alex, an electrical engineering student.
 
-* age: 22
+* age: 23
 * pronouns: he/him
 * location: Thessaloniki, Greece
 
@@ -21,4 +21,4 @@ numerical computation, machine learning, cybersecurity, linux, free software
 
 I'm currently working on
 -----------------------------------
-nothing in particular
+Finishing my degree.
