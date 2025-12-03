@@ -12,7 +12,7 @@ Coding Languages
 
 Typesetting/Markup Languages
 -----------------------------------
-`Latex`, `markdown`
+`LaTeX`, `markdown`
 
 Interests
 -----------------------------------
